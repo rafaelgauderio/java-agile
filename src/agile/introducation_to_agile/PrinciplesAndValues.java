@@ -24,6 +24,11 @@ public class PrinciplesAndValues {
 				+ "\nSimplicity: the art of maximizing the amount of work no done is essential."
 				+ "\nThe best architetures, requirements and desings emerge from self-organizing teams."
 				+ "\nAt regular invervals, the team reflects to become more effective, then tunes and adjusts its behavior accordingly.");
+		
+		System.out.println("\nThings we can do to be agile."
+				+ "\nAll principles related to user, product and team are relevant for non-software teams."
+				+ "\nLearn about yout customer, prototype and iterate."
+				+ "\nBuild cross-functional self-organizing team.");
 	}
 
 }
