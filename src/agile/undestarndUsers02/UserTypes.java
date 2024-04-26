@@ -22,6 +22,11 @@ public class UserTypes {
 				+ "\tIt helps us to understand who our target users are.\n"
 				+ "\tMake it look lite a real person (white a bio, find a picture, a name).\n"
 				+ "\tDefine one persona per user type.\n");		
+		
+		System.out.println("User Research\n"
+				+ "\tImport to validade assumptions.\n"
+				+ "\tDo quantitative and qualitative research.\n"
+				+ "\tFollow the best practices and avoid fooling yourself.\n");
 	}
 
 }
