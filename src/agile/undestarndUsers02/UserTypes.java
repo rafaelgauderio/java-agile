@@ -15,8 +15,13 @@ public class UserTypes {
 				+ "\t3. Tier/rank (free, standard, premium).\n"
 				+ "\t4. Platfomr (Android, Windows, Mac).\n"
 				+ "\t5. Language.\n"
-				+ "\t6. Other factor (hobbies, amount of free time).\n");		
+				+ "\t6. Other factor (hobbies, amount of free time).\n");
 		
+		System.out.println("Define User personas.\n"
+				+ "\tIs is a portraif of a fake person thay we build in order to present our ideal user.\n"
+				+ "\tIt helps us to understand who our target users are.\n"
+				+ "\tMake it look lite a real person (white a bio, find a picture, a name).\n"
+				+ "\tDefine one persona per user type.\n");		
 	}
 
 }
