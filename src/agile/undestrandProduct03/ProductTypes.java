@@ -23,6 +23,12 @@ public class ProductTypes {
 				+ "\tUsed to validate hypothesis about users.\n"
 				+ "\tIt is possible to manually do things behind the scenes without building the entire product.\n"
 				+ "\tIt might be discarded, so do not make promises to customers.\n");
+		
+		System.out.println("Prototypes.\n"
+				+ "\tPrototypes are used for ideation and research.\n"
+				+ "\tPrototypes might not have product functionality.\n"
+				+ "\tDifferent of MVP, prototypes is not a functionning product we offer to customers.\n"
+				+ "\tPrototypes do not necessarily deliver value to customers.\n");
 
 	}
 
